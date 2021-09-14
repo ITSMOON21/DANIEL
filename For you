@@ -1,0 +1,21 @@
+<a href="#" onClick="confirm('Do you love me?')">Click me</a>
+
+<html>
+	<head>
+		<title>Dialog alert</title>
+
+<meta charset="UTF-8">
+	</head>
+	<body>
+	<script>
+		alert("Hi")
+		alert("i just wanna say that")
+    alert("I love you")
+		alert("and")
+		alert("I miss you")
+		alert("Please takecare of yourself")
+		alert("And one more thing , i will always be by your side")
+		alert("Have a great day! bye sayang")
+	</script>
+	</body>
+</html>
